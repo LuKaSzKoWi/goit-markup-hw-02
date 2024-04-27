@@ -1,12 +1,12 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", "Raleway", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5em;
     color: #434455;
     background-color: #FFFFFF;
 }
-.page-nav {
+    .page-nav {
 letter-spacing: 2%;
 line-height: 3.75em;
 }

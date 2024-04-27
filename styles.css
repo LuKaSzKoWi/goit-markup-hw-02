@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto", "Raleway";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #2e2f42;
+}
+.page-nav {
+letter-spacing: 2%;
+line-height: 3.75em;
+}
+.page-address {
+font-family: "Roboto" serif;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 4%;
+text-decoration: underline;
+}

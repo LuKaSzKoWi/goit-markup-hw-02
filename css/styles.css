@@ -33,7 +33,8 @@ body {
 }
 
 .page-address {
-    font-size: normal;
+    font-size: 16px;
+    font-style: normal;
     line-height: 16px;
     letter-spacing: 4%;
     text-decoration: underline;
@@ -47,6 +48,6 @@ body {
 .address-link:hover {
     color: #404bbf;
 }
-.address-link:active {
+.address-link:focus {
     color: #404bbf;
 }

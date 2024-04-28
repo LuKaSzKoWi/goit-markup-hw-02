@@ -52,12 +52,12 @@ body {
     color: #404bbf;
 }
 
-.page-section {
+.section-one {
     background-color: #2e2f42;
 }
 
 .page-title {
-    font-size: 59px;
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
@@ -69,6 +69,7 @@ body {
     line-height: 1.5em;
     letter-spacing: 0.04em;
     color: #ffffff;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 
@@ -77,4 +78,12 @@ body {
 }
 .page-button:focus {
     background-color: #404BBF;
+}
+
+.page-title-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }

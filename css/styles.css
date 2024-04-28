@@ -15,7 +15,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo-studio {
+.logo-studio-top {
     color: #2e2f42;
 }
 
@@ -129,4 +129,18 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.page-footer {
+    background-color: #2e2f42;
+}
+
+.logo-studio-bottom {
+    color: #f4f4fd;
+}
+
+.page-paragraph-three {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }

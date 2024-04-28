@@ -28,7 +28,7 @@ body {
 .first-link:hover {
     color: #404bbf;
 }
-.first-link:active {
+.first-link:focus {
     color: #404bbf;
 }
 .second-link {
@@ -40,7 +40,7 @@ body {
 .second-link:hover {
     color: #404bbf;
 }
-.second-link:active {
+.second-link:focus {
     color: #404bbf;
 }
 .third-link {
@@ -52,7 +52,7 @@ body {
 .third-link:hover {
     color: #404bbf;
 }
-.third-link:active {
+.third-link:focus {
     color: #404bbf;
 }
 .page-address {
